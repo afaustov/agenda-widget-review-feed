@@ -1,0 +1,103 @@
+{
+  "updatedAt": "2026-07-26T04:35:59.576Z",
+  "reviews": [
+    {
+      "rating": 5,
+      "text": "One of my favorites. I highly recommend this to anyone that needs to see their calendar on their desktop. Support is superfast as well if you ever need them",
+      "reviewerName": "Stuart",
+      "market": "New Zealand",
+      "date": "2026-06-20"
+    },
+    {
+      "rating": 5,
+      "text": "Excellent app - exactly what i was looking for. Very good customer service too!",
+      "reviewerName": "Jon",
+      "market": "United Kingdom",
+      "date": "2026-06-08"
+    },
+    {
+      "rating": 5,
+      "text": "Overall, I think this is a fantastic app. However, I am experiencing a couple of usability issues:1. When I try to move the widget on the desktop by clicking the top area, it rarely works.2. If the lock button is enabled and the widget accidentally shrinks to a size where the top lock button is no longer visible, it becomes impossible to resize it.Feature Request: Please allow users to toggle the lock/unlock feature from the right-click context menu on the Windows taskbar.",
+      "reviewerName": "봉균",
+      "market": "South Korea",
+      "date": "2026-06-05"
+    },
+    {
+      "rating": 5,
+      "text": "As someone with ADHD, I need not just my schedule but also my to-dos in front of me. This widget does that where others don't, and has a responsive dev who listens, too. Overwhelmingly positive experience with the dev(s), they even reached back out to confirm with me that what they'd added matched what I was asking for. So far, I haven't encountered any issues, but given this interaction I am confident that if I were to have a problem it would get tended to quickly.",
+      "reviewerName": "Carter",
+      "market": "United States",
+      "date": "2026-05-23"
+    },
+    {
+      "rating": 5,
+      "text": "Changed my life :)",
+      "reviewerName": "TG",
+      "market": "Hungary",
+      "date": "2026-05-21"
+    },
+    {
+      "rating": 5,
+      "text": "Un widget muy practico y cuidado.Ahora sólo necesitamos una versión para ARM nativo. También sería interesante la opción de poder mostrarlo y ocultarlo desde un acceso directo en la barra de tareas, cómo un botón.",
+      "reviewerName": "Iván",
+      "market": "Spain",
+      "date": "2026-05-13"
+    },
+    {
+      "rating": 5,
+      "text": "I think this is by far the best calendar/agenda widget there is. The only feature I think is missing is notifications... it would be perfect with that.",
+      "reviewerName": "Lucio",
+      "market": "Argentina",
+      "date": "2026-05-04"
+    },
+    {
+      "rating": 5,
+      "text": "This is EXACTLY what I needed. Integration with google calendar and tasks. Seamless and nice style with little bugs so far. PLEASE add more options for customization like corner radius, background solid colorations, and transparency sliders. Maybe even font integration and customization in the future? Excited for what's to come.",
+      "reviewerName": "Kalā",
+      "market": "United States",
+      "date": "2026-04-28"
+    },
+    {
+      "rating": 5,
+      "text": "I've always been frustrated with Outlook's ToDo Bar Calendar because it can't display my Google Workspace calendar (Outlook only displays your default \"local\" calendar). This widget does and it has earned a permanent spot on my desktop. The developer has been very responsive with feature suggestions!",
+      "reviewerName": "Jon",
+      "market": "United States",
+      "date": "2026-04-23"
+    },
+    {
+      "rating": 5,
+      "text": "Hübsch und unkompliziert",
+      "reviewerName": "Meike",
+      "market": "Germany",
+      "date": "2026-04-15"
+    },
+    {
+      "rating": 5,
+      "text": "タスクや予定が一覧で見れるし1ボタンでカレンダーも開ける。予定の追加も簡単だ。なぜ公式でこういうWidegetがないのか不思議でたまらないがWindowsには興味がないのだろう。さっさとAndroid Desktopが世界標準になりますように。",
+      "reviewerName": "く",
+      "market": "Japan",
+      "date": "2026-04-11"
+    },
+    {
+      "rating": 5,
+      "text": "สะดวกดีมาก",
+      "reviewerName": "Anivut",
+      "market": "Thailand",
+      "date": "2026-03-30"
+    },
+    {
+      "rating": 5,
+      "text": "I have tried several calendar apps and widgets and, for me, this one is the best.It is simple in the sense that it has everything you expect from a calendar widget but nothing unnecessary, and that is reflected on the user interface: it feels minimalistic, elegant and the animations are beautiful. That is very important for something that you are going to see every day you turn on your computer.Syncing with Google Calendar was very easy and it works well.-----------Eu testei vários aplicativos e widgets de calendário e, para mim, este é o melhor. Ele é simples no sentido de que tem tudo o que você espera de um widget de calendário, mas nada desnecessário, e isso se reflete na interface: o visual é minimalista, elegante e as animações são lindas. Isso é muito importante para algo que você vai ver todos os dias ao ligar o computador. A sincronização com o Google Agenda foi muito fácil e funciona perfeitamente.",
+      "reviewerName": "Alauan",
+      "market": "Brazil",
+      "date": "2026-03-10"
+    },
+    {
+      "rating": 5,
+      "text": "Nach Startschwierigkeiten mit dem Sign in, wurde dieses mit dem neusten Update behoben. Jetzt funktioniert alles so wie man es sich vorstellt. Alles Wichtige ist vorhanden und den Kalender hat man immer im Blick.",
+      "reviewerName": "Stefan",
+      "market": "Germany",
+      "date": "2026-02-24"
+    }
+  ]
+}
