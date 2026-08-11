@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-10T21:54:22.000Z",
+  "updatedAt": "2026-08-11T21:59:54.677Z",
   "reviews": [
+    {
+      "rating": 5,
+      "text": "Was looking for a way to display upcoming calendar events. This widget looks great, fits my needs, and is easy to use.Could maybe have a calendar view without opening the browser.",
+      "reviewerName": "Ellison",
+      "market": "United States",
+      "date": "2026-08-10"
+    },
     {
       "rating": 5,
       "text": "Once you get it set up, it's well made and streamlines your tasks/events/appointments. W app.",
